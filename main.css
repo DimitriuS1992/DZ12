@@ -1,9 +1,12 @@
-html,
-body {
-    height: 100%;
-    margin: 0;
-    background: linear-gradient(130deg, #00FA9A, #9400D3) no-repeat;
-    background-size: cover;
+body{
+    background: linear-gradient(217deg,rgba(255,0,0,0.8),rgba(255,0,0,0)70.71%), linear-gradient(127deg,rgba(0,255,0,0.8),rgba(0,255,0,0)70.71%), linear-gradient(336deg,rgba(0,0,255,0.8),rgba(0,0,255,0)70.71%);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100vw;
+    min-height: 100vh;
+    margin: 0px;
+    padding: 0px;
 }
 
 .container {
